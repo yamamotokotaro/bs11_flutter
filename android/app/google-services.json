@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823853276616",
+    "firebase_url": "https://bs11-flutter.firebaseio.com",
+    "project_id": "bs11-flutter",
+    "storage_bucket": "bs11-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823853276616:android:adf2684164e5110fb3b4fd",
+        "android_client_info": {
+          "package_name": "app.kotakota.bs11_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823853276616-lbuqgok3j7olb54uc59qp0crtffur0vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2jkVQtkHLIj_t7fYeDAyEBc6wnvpC79o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823853276616-lbuqgok3j7olb54uc59qp0crtffur0vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
